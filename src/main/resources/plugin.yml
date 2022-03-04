@@ -1,0 +1,4 @@
+name: HologProject
+version: '${project.version}'
+main: com.boys4code.plugin.Plugin
+api-version: 1.18
